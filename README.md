@@ -51,4 +51,11 @@ Case Study Assignment Module 1
 
 **Appropriateness of Technologies:** These technologies are suitable because they can analyze vast datasets to identify patterns and predict potential security threats, aligning with Abnormal Security’s core competencies in AI and machine learning.
 
-This case study offers a comprehensive overview of Abnormal Security, highlighting its innovative approach in the AI-based email security domain, its growth trajectory, and potential future directions.
+
+1. Abnormal Security's Product Overview: [abnormalsecurity.com](https://abnormalsecurity.com/)
+2. StartupTalky on Abnormal Security's founders: [startuptalky.com](https://startuptalky.com/)
+3. BusinessWire on Abnormal Security's funding: [businesswire.com](https://www.businesswire.com/)
+4. BuiltInSF on Abnormal Security's funding: [builtinsf.com](https://www.builtinsf.com/)
+5. Datanyze on Abnormal Security's overview: [datanyze.com](https://www.datanyze.com/)
+6. Craft on Abnormal Security's profile: [craft.co](https://craft.co/)
+7. BoringBusinessNerd on Abnormal Security's company profile: [boringbusinessnerd.com](https://www.boringbusinessnerd.com/)
