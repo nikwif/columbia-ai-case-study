@@ -1,5 +1,4 @@
 # ai-case-study
-Case Study Assignment Module 1
 
 # Abnormal Security Case Study
 
