@@ -9,21 +9,21 @@ Case Study Assignment Module 1
 
 **Incorporation Date:** 2018
 
-**Founders:** Evan Reiser and Sanjay Jeyakumar. Evan Reiser, now CEO, has a background in computer systems and computer science, and previously led product and machine learning teams at Twitter. Sanjay Jeyakumar, the CTO, has a strong foundation in computer science and experience as a staff software engineer at Twitter【65†source】【79†source】.
+**Founders:** Evan Reiser and Sanjay Jeyakumar. Evan Reiser, now CEO, has a background in computer systems and computer science, and previously led product and machine learning teams at Twitter. Sanjay Jeyakumar, the CTO, has a strong foundation in computer science and experience as a staff software engineer at Twitter.
 
-**Idea Origin:** The founders used their experience in behavioral modeling from the AdTech industry to address the complex cybersecurity threat landscape. They aimed to transform traditional security systems, particularly focusing on securing cloud email against sophisticated attacks【85†source】.
+**Idea Origin:** The founders used their experience in behavioral modeling from the AdTech industry to address the complex cybersecurity threat landscape. They aimed to transform traditional security systems, particularly focusing on securing cloud email against sophisticated attacks.
 
-**Funding:** Abnormal Security raised $210 million in a Series C round in 2021, bringing its total venture funding to $284 million and valuing the company at $4 billion. The Series C round was led by Insight Partners【66†source】【67†source】.
+**Funding:** Abnormal Security raised $210 million in a Series C round in 2021, bringing its total venture funding to $284 million and valuing the company at $4 billion. The Series C round was led by Insight Parters.
 
 ## Business Activities
 
-**Problem Addressed:** Abnormal Security focuses on securing cloud email against a range of threats including socially-engineered attacks, email account takeovers, and security posture vulnerabilities【56†source】【57†source】【58†source】【59†source】【60†source】【61†source】.
+**Problem Addressed:** Abnormal Security focuses on securing cloud email against a range of threats including socially-engineered attacks, email account takeovers, and security posture vulnerabilities.
 
 **Intended Customer:** The company targets large enterprises and has notable clients like Foot Locker, Xerox, Liberty Mutual, Boston Scientific, Groupon, and Urban Outfitters.
 
 **Unique Solutions:** Abnormal Security offers comprehensive cloud email security solutions, including inbound email security, email account takeover protection, security posture management, and abuse mailbox automation. These solutions are characterized by advanced AI and behavioral analysis, automating workflows and enhancing productivity.
 
-**Technologies Used:** The company utilizes advanced behavioral AI to personalize graymail control and improve email security. Its platform integrates via API and requires no rules or policies for deployment【56†source】【57†source】【58†source】【59†source】【60†source】【61†source】.
+**Technologies Used:** The company utilizes advanced behavioral AI to personalize graymail control and improve email security. Its platform integrates via API and requires no rules or policies for deployment.
 
 ## Landscape
 
@@ -31,11 +31,11 @@ Case Study Assignment Module 1
 
 **Major Trends and Innovations:** In the past decade, there has been a significant shift toward AI and machine learning in cybersecurity, focusing on predictive analytics, automated threat detection, and personalized security solutions.
 
-**Major Competitors:** Companies like Proofpoint, Mimecast, Avanan, and Tessian are significant competitors in the AI-based email security landscape【247†source】.
+**Major Competitors:** Companies like Proofpoint, Mimecast, Avanan, and Tessian are significant competitors in the AI-based email security landscape.
 
 ## Results
 
-**Business Impact:** As of May 2022, Abnormal Security serves 5% of the Fortune 1000, with a 99% customer renewal rate and a high customer satisfaction rating. In 2021, the company reported a threefold growth in Annual Recurring Revenue (ARR) over the previous year【78†source】.
+**Business Impact:** As of May 2022, Abnormal Security serves 5% of the Fortune 1000, with a 99% customer renewal rate and a high customer satisfaction rating. In 2021, the company reported a threefold growth in Annual Recurring Revenue (ARR) over the previous year.
 
 **Core Metrics:** Key metrics in this field include customer acquisition, retention rates, threat detection efficacy, and customer satisfaction. Abnormal Security performs well based on these metrics with a high renewal rate and strong growth in ARR.
 
@@ -51,7 +51,7 @@ Case Study Assignment Module 1
 
 **Appropriateness of Technologies:** These technologies are suitable because they can analyze vast datasets to identify patterns and predict potential security threats, aligning with Abnormal Security’s core competencies in AI and machine learning.
 
-
+## Sources:
 1. Abnormal Security's Product Overview: [abnormalsecurity.com](https://abnormalsecurity.com/)
 2. StartupTalky on Abnormal Security's founders: [startuptalky.com](https://startuptalky.com/)
 3. BusinessWire on Abnormal Security's funding: [businesswire.com](https://www.businesswire.com/)
